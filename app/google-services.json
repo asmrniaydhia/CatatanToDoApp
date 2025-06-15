@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522235295936",
+    "project_id": "notestodoapp-dc635",
+    "storage_bucket": "notestodoapp-dc635.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522235295936:android:d6f9e6c242c45d05b09525",
+        "android_client_info": {
+          "package_name": "com.example.catatantodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522235295936-7uouucf5jub098tfd83n93dn60v722vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catatantodoapp",
+            "certificate_hash": "39dbf81993b21fa7940f7854b4ea5c77fa946051"
+          }
+        },
+        {
+          "client_id": "522235295936-0m3esjhmi3uvd6hsnr7fpplo5vt7eghe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOkWYItZAMiY5eIzEYzVLMEHvV16jiCG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522235295936-0m3esjhmi3uvd6hsnr7fpplo5vt7eghe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
